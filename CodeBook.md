@@ -11,6 +11,7 @@ The sensor signals (accelerometer and gyroscope) have been pre-processed by appl
 ## Data
 
 The original data set can be downloaded from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 The dataset used includes the following files:
 
 - 'README.txt'
